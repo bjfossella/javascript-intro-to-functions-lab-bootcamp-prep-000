@@ -28,5 +28,5 @@ function sayHiToGrandma(string) {
 }
 
 function logShout(string) {
-  console.log(uppercase);
+  console.log('hello').toUpperCase;
 }
