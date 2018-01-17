@@ -19,7 +19,7 @@ mixedCase.toLowerCase() === mixedCase; // false
 mixedCase.toUpperCase() === mixedCase; // false
 
 function logWhisper(string) {
-  console.log(lowercase);
+  console.log('HELLO').toLowerCase;
 }
 
 function sayHiToGrandma(string) {
