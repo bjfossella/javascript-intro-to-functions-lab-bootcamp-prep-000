@@ -31,3 +31,12 @@ function sayHiToGrandma(string) {
     return "I can't hear you!";
 }
 
+function sayHiToGrandma(string) {
+  if (string === uppercase); // true {
+    return "YES INDEED!";
+}
+
+function sayHiToGrandma(string) {
+  if (string === "I love you, Grandma."); // true {
+    return "I love you, too.";
+}
