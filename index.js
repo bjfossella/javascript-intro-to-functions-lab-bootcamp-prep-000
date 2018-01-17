@@ -31,7 +31,6 @@ function sayHiToGrandma(string) {
 }
 }
 
-function sayHiToGrandma(hello) {
-  if (sayHiToGrandma === lowercase)
+function sayHiToGrandma(string) {
     return 'I can\'t hear you!';
 }
