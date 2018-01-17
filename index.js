@@ -6,7 +6,7 @@ function whisper(string) {
   return string.toLowerCase();
 }
 
-var uppercase = "Hello!";
+var uppercase = "HELLO!";
 
 uppercase.toUppercase() === uppercase; // true
 
