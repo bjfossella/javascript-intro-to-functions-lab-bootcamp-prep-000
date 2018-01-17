@@ -26,6 +26,6 @@ function logWhisper(string) {
 }
 
 function sayHiToGranma(string) {
-  if (lowercase.toLowerCase() === lowercase)
+  if (string.toLowerCase() === string)
     return 'I can\'t hear you!';
 }
