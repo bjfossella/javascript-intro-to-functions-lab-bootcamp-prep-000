@@ -1,25 +1,25 @@
 function shout(string) {
-  return string.toUpperCase()
+  return string.toUpperCase();
 }
 
 function whisper(string) {
-  return string.toLowerCase()
+  return string.toLowerCase();
 }
 
-var uppercase = "Hello!"
+var uppercase = "Hello!";
 
-uppercase.toUppercase() === uppercase // true
+uppercase.toUppercase() === uppercase; // true
 
-var lowercase = 'hello!'
+var lowercase = 'hello!';
 
-var mixedCase = 'Hi there!'
+var mixedCase = 'Hi there!';
 
-mixedCase.toLowerCase() === mixedCase // false
+mixedCase.toLowerCase() === mixedCase; // false
 
-mixedCase.toUpperCase() === mixedCase // false
+mixedCase.toUpperCase() === mixedCase; // false
 
 function logWhisper(string) {
-  console.log(lowercase)
+  console.log(lowercase);
 }
 
 function sayHiToGrandma(string) {
