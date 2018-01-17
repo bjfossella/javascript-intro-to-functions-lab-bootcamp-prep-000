@@ -6,6 +6,25 @@ function whisper(string) {
   return string.toLowerCase()
 }
 
-function logshout(string) {
-  console.log(logshout).toUpperCase
+var uppercase = "Hello!"
+
+uppercase.toUppercase() === uppercase // true
+
+var lowercase = 'hello!'
+
+
+
+var mixedCase = 'Hi there!'
+
+mixedCase.toLowerCase() === mixedCase // false
+
+mixedCase.toUpperCase() === mixedCase // false
+
+function logWhisper(string) {
+  console.log(lowercase)
+}
+
+function sayHiToGrandma(string) {
+  if (lowercase.toLowerCase() === lowercase // true)
+  then 
 }
