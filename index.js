@@ -32,6 +32,6 @@ function sayHiToGrandma(string) {
 }
 
 function sayHiToGrandma(string) {
-  string.toUpperCase;
-  return "YES INDEED!"
+  string = lowercase;
+  return "I can\'t hear you!";
 }
